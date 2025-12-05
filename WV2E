@@ -1,0 +1,8 @@
+ClrHome
+Disp "Enter the"
+Disp "wavelength"
+Disp "in nanometers"
+Input "",S
+((6.626e-34)(3.00e8))/(Se-9)->S
+ClrHome
+Disp S
